@@ -6,6 +6,7 @@ final class CustomCalendarExampleController: DayViewController {
                "New York, 5th avenue"],
               
               ["Workout",
+               "sdwe",
                "Tufteparken"],
               
               ["Meeting with Alex",
